@@ -1,21 +1,21 @@
 {
   "events": [
     { "id": 1, "title": "Event 1", "longitude":5.56789, "latitude":3.145678975 },
-    { "id": 2, "title": "Event 2", "longitude":5.56789, "latitude":3.145678975 },
-    { "id": 3, "title": "Event 3", "longitude":5.56789, "latitude":3.145678975 },
-    { "id": 4, "title": "Event 4", "longitude":5.56789, "latitude":3.145678975 },
-    { "id": 5, "title": "Event 5", "longitude":5.56789, "latitude":3.145678975 },
-    { "id": 6, "title": "Event 6", "longitude":5.56789, "latitude":3.145678975 },
-    { "id": 7, "title": "Event 7", "longitude":5.56789, "latitude":3.145678975 },
-    { "id": 8, "title": "Event 8", "longitude":5.56789, "latitude":3.145678975 },
-    { "id": 9, "title": "Event 9", "longitude":5.56789, "latitude":3.145678975 },
-    { "id": 10, "title": "Event 10", "longitude":5.56789, "latitude":3.145678975 },
-    { "id": 11, "title": "Event 11", "longitude":5.56789, "latitude":3.145678975 },
-    { "id": 12, "title": "Event 12", "longitude":5.56789, "latitude":3.145678975 },
-    { "id": 13, "title": "Event 13", "longitude":5.56789, "latitude":3.145678975 },
-    { "id": 14, "title": "Event 14", "longitude":5.56789, "latitude":3.145678975 },
-    { "id": 15, "title": "Event 15", "longitude":5.56789, "latitude":3.145678975 },
-    { "id": 16, "title": "Event 16", "longitude":5.56789, "latitude":3.145678975 },
-    { "id": 17, "title": "Event 17", "longitude":5.56789, "latitude":3.145678975 }
+    { "id": 2, "title": "Event 2", "longitude":15.56789, "latitude":13.145678975 },
+    { "id": 3, "title": "Event 3", "longitude":35.56789, "latitude":23.145678975 },
+    { "id": 4, "title": "Event 4", "longitude":45.56789, "latitude":53.145678975 },
+    { "id": 5, "title": "Event 5", "longitude":55.56789, "latitude":63.145678975 },
+    { "id": 6, "title": "Event 6", "longitude":15.56789, "latitude":23.145678975 },
+    { "id": 7, "title": "Event 7", "longitude":25.56789, "latitude":13.145678975 },
+    { "id": 8, "title": "Event 8", "longitude":15.56789, "latitude":11.145678975 },
+    { "id": 9, "title": "Event 9", "longitude":18.56789, "latitude":13.145678975 },
+    { "id": 10, "title": "Event 10", "longitude":19.56789, "latitude":23.145678975 },
+    { "id": 11, "title": "Event 11", "longitude":24.56789, "latitude":33.145678975 },
+    { "id": 12, "title": "Event 12", "longitude":35.56789, "latitude":45.145678975 },
+    { "id": 13, "title": "Event 13", "longitude":16.56789, "latitude":17.145678975 },
+    { "id": 14, "title": "Event 14", "longitude":17.56789, "latitude":18.145678975 },
+    { "id": 15, "title": "Event 15", "longitude":19.56789, "latitude":20.145678975 },
+    { "id": 16, "title": "Event 16", "longitude":20.56789, "latitude":21.145678975 },
+    { "id": 17, "title": "Event 17", "longitude":22.56789, "latitude":23.145678975 }
   ]
 }
